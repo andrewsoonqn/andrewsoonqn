@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hello! I'm Andrew Soon 👋
+
+I am a **Computer Science** student at the **National University of Singapore** (Class of 2028)
+
+I focus in using **Software Engineering** and **AI/ML** to solve tangible problems. 
+
+
 
 <!--
 **andrewsoonqn/andrewsoonqn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
