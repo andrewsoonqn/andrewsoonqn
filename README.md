@@ -2,7 +2,7 @@
 
 I am a **Computer Science** student at the **National University of Singapore** (Class of 2028)
 
-I focus in using **Software Engineering** and **AI/ML** to solve tangible problems. 
+I focus on using **Software Engineering** and **AI/ML** to solve tangible problems. 
 
 
 
