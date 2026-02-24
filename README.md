@@ -1,1 +1,9 @@
-I build cool things with Java, TypeScript + React, and AI with Python.
+<p align="center">
+  <span>I am contributing to open source, going deep into Java, and doing undergraduate AI research (mapping the human brain 🧠).</span>
+  <br>
+  <br>
+  <samp>
+    <a href="mailto:andrewsoonqn@gmail.com">email</a> .
+    <a href="https://www.linkedin.com/in/andrewsq/">linkedin</a>
+  </samp>
+</p>
